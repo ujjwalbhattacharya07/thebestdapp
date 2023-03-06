@@ -195,7 +195,7 @@ try{
             Want to deploy your Own ?
             <a
               className="font-semibold text-sky-700"
-              href="https://https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              href="https://topflightapps.com/ideas/how-to-create-cryptocurrency-token/"
             >
               Read docs
             </a>
